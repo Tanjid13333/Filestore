@@ -9,7 +9,7 @@ from telegram.ext import (
 )
 
 # ===== CONFIG =====
-TOKEN = "8238022695:AAFv1kUvd-Ta0JoyUbf5ybPle4r3fsqT1J8"
+TOKEN = "8436901531:AAGV-5Df9tZqvb7fbn1XUlBCWiuPZGzRMzA"
 DB_CHANNEL_ID = -1003604913684        # Storage channel (bot admin)
 LOG_CHANNEL_ID = -1003720874644       # Log channel
 FORCE_JOIN_CHANNEL = "@all_viral_linkv1"   # Channel username
